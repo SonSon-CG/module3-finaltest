@@ -30,3 +30,5 @@ dependencies {
 
 test {
 useJUnitPlatform()}
+
+implementation 'mysql:mysql-connector-java:8.0.33'
